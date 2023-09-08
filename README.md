@@ -7,7 +7,7 @@ I am an Assistant professor in Philosophy at Utrecht University. My main interes
 ---
 Visit my ✨ [Personal Website](https://heinduijf.super.site/) ✨
 
-Or other profiles:
+Other profiles:
 - [UU](https://www.uu.nl/staff/hwaduijf)
 - [LinkedIn](https://www.linkedin.com/in/hein-duijf-82969080)
 - [ResearchGate](https://www.researchgate.net/profile/Hein-Duijf)
