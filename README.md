@@ -1,8 +1,17 @@
-## Hi 👋! I'm Hein Duijf, welcome to my GitHub page
+## 👋 Hi, I'm Hein Duijf! Welcome to my GitHub page 🥳
 
-I am an Assistant professor in Philosophy at [Utrecht University](https://www.uu.nl/staff/hwaduijf). My main interests are in social epistemology and the philosophy and ethics of artificial intelligence. 
+I am an Assistant professor in Philosophy at Utrecht University. My main interests are in social epistemology and the philosophy and ethics of artificial intelligence. 
 
 - 🚀 I am currently working on voting and social networks using agent-based models and simulations. 
+
+---
+Visit my ✨ [Personal Website](https://heinduijf.super.site/) ✨
+
+Or other profiles:
+- [UU](https://www.uu.nl/staff/hwaduijf)
+- [LinkedIn](https://www.linkedin.com/in/hein-duijf-82969080)
+- <img src="https://https://github.com/FortAwesome/Font-Awesome/tree/6.x/svgs/brands/researchgate.svg"> [ResearchGate](https://www.researchgate.net/profile/Hein-Duijf)
+- [PhilPeople](https://philpeople.org/profiles/hein-duijf)
 
 <!--
 **HeinDuijf/HeinDuijf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
