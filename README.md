@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋! I'm Hein Duijf, welcome to my GitHub page
+
+- I am currently working on voting and social networks using agent-based models and simulations. 
 
 <!--
 **HeinDuijf/HeinDuijf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
