@@ -10,7 +10,7 @@ Visit my ✨ [Personal Website](https://heinduijf.super.site/) ✨
 Or other profiles:
 - [UU](https://www.uu.nl/staff/hwaduijf)
 - [LinkedIn](https://www.linkedin.com/in/hein-duijf-82969080)
-- <img src="https://https://github.com/FortAwesome/Font-Awesome/tree/6.x/svgs/brands/researchgate.svg"> [ResearchGate](https://www.researchgate.net/profile/Hein-Duijf)
+- @icn-researchgate @icon-researchgate [ResearchGate](https://www.researchgate.net/profile/Hein-Duijf)
 - [PhilPeople](https://philpeople.org/profiles/hein-duijf)
 
 <!--
