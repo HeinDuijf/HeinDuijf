@@ -1,5 +1,9 @@
 ### Hi 👋! I'm Hein Duijf, welcome to my GitHub page
 
+## Assistant professor at Utrecht University
+
+- I am a (mathematical) philosopher with main research interests in social epistemology and the philosophy and ethics of artificial intelligence. 
+
 - I am currently working on voting and social networks using agent-based models and simulations. 
 
 <!--
