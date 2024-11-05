@@ -2,7 +2,10 @@
 
 I am an Assistant professor in Philosophy at Utrecht University. My main interests are in social epistemology and the philosophy and ethics of artificial intelligence. 
 
-- 🚀 I am currently working on voting and social networks using agent-based models and simulations. 
+I'm currently working on:
+- 🚀 voting and social networks using agent-based models and simulations;
+- 🔭 diversity and ability in team decision-making; and
+- 🌱 empirical robustness in network epistemology. 
 
 ---
 Visit my ✨ [Personal Website](https://heinduijf.super.site/) ✨
